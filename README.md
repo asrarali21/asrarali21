@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Asrar Ali</h1>
-<h3 align="center">I build UIs with React, learn fast by breaking things, and fix just enough to move forward.</h3>
+<h3 align="center">I build UIs with React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrarali21&label=Profile%20views&color=0e75b6&style=flat" alt="asrarali21" /> </p>
 
