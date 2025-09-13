@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Asrar Ali</h1>
-<h3 align="center">I build UIs with React</h3>
+<h3 align="center">Building full-stack applications with React, Express, and MongoDB <br>
+Able to integrate AI solutions using LLM, Langchain, and RAG
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrarali21&label=Profile%20views&color=0e75b6&style=flat" alt="asrarali21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrarali21" alt="asrarali21" /></a> </p>
 
-- 🔭 I’m currently working on [SnipSync](https://snipsync.netlify.app/)
-
-- 🌱 I’m currently learning **React,Mern Stack**
+- 🔭 I’m currently Developing a diagnostic web app with AI chatbot using Langchain and RAG.
+  
+- 🌱 I’m currently Buidling and Learning **Full Stack || Advanced LLM techniques, Langchain, and RAG.**
 
 - 📫 How to reach me **mohdasrar3825@gmail.com**
 
