@@ -7,9 +7,9 @@ Able to integrate AI solutions using LLM, Langchain,Langgraph,RAG,AI Agents,Agen
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrarali21" alt="asrarali21" /></a> </p>
 
-- 🔭 I’m currently Developing a diagnostic web app with AI chatbot using Langchain and RAG.
+- 🔭 I’m currently Working on Multi Agentic Systems.
   
-- 🌱 I’m currently Buidling and Learning **Full Stack || Advanced LLM techniques, Langchain, and RAG.**
+- 🌱 I’m currently Buidling and Learning **Full Stack || Advanced LLM techniques, AI Agents, and RAG Systems.**
 
 - 📫 How to reach me **mohdasrar3825@gmail.com**
 
