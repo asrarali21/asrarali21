@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammed Asrar Ali</h1>
-<h3 align="center">Building full-stack applications with React, Express, and MongoDB <br>
-Able to integrate AI solutions using LLM, Langchain,Langgraph,RAG,AI Agents,Agentic Workflows etc..
+<h3 align="center">I build AI Application 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrarali21&label=Profile%20views&color=0e75b6&style=flat" alt="asrarali21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrarali21" alt="asrarali21" /></a> </p>
 
-- 🔭 I’m currently Working on Multi Agentic Systems.
+- 🔭 I’m currently Working on Agentic Systems.
   
-- 🌱 I’m currently Buidling and Learning **Full Stack || Advanced LLM techniques, AI Agents, and RAG Systems.**
+- 🌱 I’m currently Buidling and Learning **Advanced LLM techniques, AI Agents, and RAG Systems.**
 
 - 📫 How to reach me **mohdasrar3825@gmail.com**
 
